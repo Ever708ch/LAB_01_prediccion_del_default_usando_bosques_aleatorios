@@ -61,7 +61,7 @@
 #
 #
 # Paso 4.
-# Optimice los hiperparametros del modelo usando validación cruzada.
+# Optimice los hiperparametros del pipeline usando validación cruzada.
 # Use 10 splits para la validación cruzada. Use la función de precision
 # balanceada para medir la precisión del modelo.
 #
